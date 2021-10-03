@@ -1,3 +1,8 @@
+# code-anywhere
+Use vim-anywhere with vscode instead, plus auto-copying selected text to your favorite editor.
+
+Auto-install script is not tested. I'm using [skhd](https://github.com/koekeishiya/skhd) for shortcut management.
+
 # vim-anywhere
 
 Sometimes, you edit text outside of Vim. These are sad times. Enter
